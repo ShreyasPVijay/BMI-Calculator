@@ -4,7 +4,6 @@ The Body Mass Index (BMI) calculator is a web application designed to help users
 
 Key Features:
 
-1] User Input: The calculator allows users to enter their height and weight in metric units (centimeters and kilograms) or imperial units (feet, inches, and pounds).
-2] BMI Calculation: The application calculates the BMI using the formula: BMI = weight (kg) / (height (m))^2. The result is then displayed to the user.
-3] BMI Categories: The calculated BMI is categorized into different ranges such as underweight, normal weight, overweight, and obese. These categories provide users with an understanding of their current body 
-   composition.
+1] User Input: 
+2] BMI Calculation:
+3] BMI Categories: 
